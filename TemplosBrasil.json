@@ -1,0 +1,63 @@
+[
+    {
+      "templeName": "Brazil São Paulo Temple",
+      "location": "São Paulo, São Paulo, Brazil",
+      "dedicated": "30 October 1978",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/249d5717cea3f67ba627819a9616a53f591fc9d7/full/1600%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Recife Temple",
+      "location": "Recife, Pernambuco, Brazil",
+      "dedicated": "15 December 2000",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/74d57cefebf31773df61b0b882067ee236de5279/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Porto Alegre Temple",
+      "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+      "dedicated": "17 December 2000",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/8b7f7031cc837345a3638255f73ad8df9b9ed693/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Campinas Temple",
+      "location": "Campinas, São Paulo, Brazil",
+      "dedicated": "17 May 2002",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/c9a81a6f86750d7d9ade3499d3df52e2f7f726a7/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Curitiba Temple",
+      "location": "Curitiba, Paraná, Brazil",
+      "dedicated": "1 June 2008",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/c9a81a6f86750d7d9ade3499d3df52e2f7f726a7/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Manaus Temple",
+      "location": "Manaus, Amazonas, Brazil",
+      "dedicated": "10 June 2012",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/f758727dc0cd20dc24845be6e5810f81e400d603/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Fortaleza Temple",
+      "location": "Fortaleza, Ceará, Brazil",
+      "dedicated": "2 June 2019",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/e2a28dbb2b14f5f71d79b359cf9f7b88dc480144/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Rio de Janeiro Temple",
+      "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "dedicated": "8 May 2019",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/001db7326e638032470a02813c9e47191ef74b0e/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Belém Temple",
+      "location": "Belém, Pará, Brazil",
+      "dedicated": "20 November 2022",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/588d3a27e2b911ec94adeeeeac1e0a0694f432a0/full/320%2C/0/default"
+    },
+    {
+      "templeName": "Brazil Brasília Temple",
+      "location": "Brasília, Distrito Federal, Brazil",
+      "dedicated": "17 September 2023",
+      "imageUrl": "https://www.churchofjesuschrist.org/imgs/95f3f3abdd4811ed920ceeeeac1e15db91037802/full/320%2C/0/default"
+    }
+   
+  ]
